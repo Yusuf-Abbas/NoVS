@@ -1,5 +1,8 @@
-#include<iostream>
-int main(){
-	std::cout<<"Alberto abuses me help pls";
+#include <iostream>
+using namespace std;
+
+int showMessageOfTheDay()
+{
+	cout << "Kenneth, quiet down over there.\r\n";
 	return 0;
 }
